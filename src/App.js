@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <link rel="manifest" href="/manifest.json"/>
       </header>
     </div>
   );
